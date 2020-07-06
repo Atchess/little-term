@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">test0</string>
+    <string name="btn">Button</string>
+    <string name="changeColor">主题</string>
+    <string name="todo">TODO</string>
+    <string name="emailaddress">example@example.com</string>
+    <string name="passwd">password</string>
 </resources>
