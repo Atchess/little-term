@@ -4,7 +4,7 @@
 
 **log**
 
-![hw1_3](image\hw1_3.png)
+![hw1_3](image/hw1_3.png)
 
 **other**
 
