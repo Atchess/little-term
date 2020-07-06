@@ -48,17 +48,19 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        sw1.setTextOn("暗黑");
-        sw1.setTextOff("明亮");
+
         sw1.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener(){
 
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean isChecked) {
-                if (isChecked)
+                if (isChecked) {
                     myLayout.setBackgroundColor(Color.BLUE);
-                else
+                    Log.i("theme", "color: blue");
+                }
+                else {
                     myLayout.setBackgroundColor(Color.WHITE);
-
+                    Log.i("theme", "color: white");
+                }
             }
         });
 
