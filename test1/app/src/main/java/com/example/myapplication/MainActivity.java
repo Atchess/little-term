@@ -9,7 +9,9 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
+import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import com.example.myapplication.recycler.LinearItemDecoration;
@@ -25,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private MyAdapter mAdapter;
     private RecyclerView.LayoutManager layoutManager;
     private GridLayoutManager gridLayoutManager;
-
+    private ViewNumCount count = new ViewNumCount();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,6 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.btn_main_atme).setOnClickListener(this);
         findViewById(R.id.recycler).setOnClickListener(this);
         initRecycleView();
+        Log.i("TAG", "count: "+count.count(recyclerView));
     }
 
     @Override
