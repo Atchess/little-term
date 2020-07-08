@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.btn_main_atme).setOnClickListener(this);
         findViewById(R.id.recycler).setOnClickListener(this);
         initRecycleView();
-        Log.i("TAG", "count: "+count.count(recyclerView));
+        Log.i("TAG", "count: "+count.count(this.getWindow().getDecorView()));
     }
 
     @Override
