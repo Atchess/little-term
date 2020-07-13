@@ -31,3 +31,21 @@
 #### HW5
 
 <img src="/image/hw5/HW5_0.png" alt="HW5_0" style="zoom:25%;" />
+
+
+
+
+
+#### HW 6
+
+删除
+
+<img src="image/hw6/hw6_1.png" alt="Screenshot_1594654430" style="zoom:5%;" />
+
+复选框
+
+<img src="image/hw6/hw6_0.png" alt="Screenshot_1594654427" style="zoom:5%;" />
+
+增加及复选框
+
+<img src="image/hw6/hw6_2.png" alt="Screenshot_1594657911" style="zoom:5%;" />
