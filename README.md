@@ -49,3 +49,20 @@
 增加及复选框
 
 <img src="image/hw6/hw6_2.png" alt="Screenshot_1594657911" style="zoom:5%;" />
+
+
+
+#### HW7
+
+图片
+
+<img src="image/hw7/HW7_3.png" alt="HW7_3" style="zoom:10%;" />
+
+
+
+本地视频播放
+
+<img src="image/hw7/HW7_2.png" alt="HW7_2" style="zoom:10%;" />
+
+<img src="image/hw7/HW7_4.png" alt="HW7_4" style="zoom:10%;" />
+
