@@ -24,13 +24,13 @@
 
 #### HW4:
 
-<img src="/image/hw4/hw4_0.png" alt="hw4_0" style="zoom:25%;"/>
+<img src="/image/hw4/hw4_0.png" alt="hw4_0" style="zoom:5%;"/>
 
 
 
 #### HW5
 
-<img src="/image/hw5/HW5_0.png" alt="HW5_0" style="zoom:25%;" />
+<img src="/image/hw5/HW5_0.png" alt="HW5_0" style="zoom:5%;" />
 
 
 
@@ -56,13 +56,24 @@
 
 图片
 
-<img src="image/hw7/HW7_3.png" alt="HW7_3" style="zoom:10%;" />
+<img src="image/hw7/HW7_3.png" alt="HW7_3" style="zoom:5%;" />
 
 
 
 本地视频播放
 
-<img src="image/hw7/HW7_2.png" alt="HW7_2" style="zoom:10%;" />
+<img src="image/hw7/HW7_2.png" alt="HW7_2" style="zoom:5%;" />
 
-<img src="image/hw7/HW7_4.png" alt="HW7_4" style="zoom:10%;" />
+<img src="image/hw7/HW7_4.png" alt="HW7_4" style="zoom:5%;" />
 
+
+
+#### HW8
+
+录制视频：
+
+<img src="/image/hw8/HW8_2.png" alt="HW8_2" style="zoom:5%;" />
+
+录制结果：
+
+<img src="H:\Git\little-term\image\hw8\HW8_3.png" alt="HW8_3" style="zoom:5%;" />
