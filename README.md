@@ -6,7 +6,7 @@
 
 **log**
 
-![hw1_3](image/hw1/hw1_3.png)
+![hw1_3](image/hw1/hw1_3.png width = "300" height = "200")
 
 可以在image文件夹中查看其他图片
 
