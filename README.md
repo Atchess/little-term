@@ -6,8 +6,7 @@
 
 **log**
 
-![hw1_3](image/hw1/hw1_3.png width = "300" height = "200")
-<img src="image/hw1/hw1_3.png"  height = "80"/>
+<img src="image/hw1/hw1_3.png"  height = "200"/>
 
 可以在image文件夹中查看其他图片
 
@@ -17,7 +16,8 @@
 
 **test2项目图片借用了ic_background和ic_foreground，点击上部四个按钮分别是不同的界面，但都是空界面。点击下面的聊天均会跳转到聊天界面，~~可发送消息~~（虚假的发送消息）。它们都是复用同一个界面，会从intent获取相关信息显示。同时也增加了 ViewNumCount.java完成exercise2。**
 
-![hw2_3](image/hw2/hw2_3.PNG)
+<img src="image/hw2/hw2_3.PNG"  height = "200"/>
+
 
 
 
@@ -25,13 +25,13 @@
 
 #### HW4:
 
-<img src="/image/hw4/hw4_0.png" alt="hw4_0" style="zoom:5%;"/>
+<img src="/image/hw4/hw4_0.png" alt="hw4_0" height = "200"/>
 
 
 
 #### HW5
 
-<img src="/image/hw5/HW5_0.png" alt="HW5_0" style="zoom:5%;" />
+<img src="/image/hw5/HW5_0.png" alt="HW5_0" height = "200" />
 
 
 
@@ -41,15 +41,15 @@
 
 删除
 
-<img src="image/hw6/hw6_1.png" alt="Screenshot_1594654430" style="zoom:5%;" />
+<img src="image/hw6/hw6_1.png" alt="Screenshot_1594654430" height = "200"/>
 
 复选框
 
-<img src="image/hw6/hw6_0.png" alt="Screenshot_1594654427" style="zoom:5%;" />
+<img src="image/hw6/hw6_0.png" alt="Screenshot_1594654427" height = "200" />
 
 增加及复选框
 
-<img src="image/hw6/hw6_2.png" alt="Screenshot_1594657911" style="zoom:5%;" />
+<img src="image/hw6/hw6_2.png" alt="Screenshot_1594657911" height = "200"/>
 
 
 
@@ -57,15 +57,15 @@
 
 图片
 
-<img src="image/hw7/HW7_3.png" alt="HW7_3" style="zoom:5%;" />
+<img src="image/hw7/HW7_3.png" alt="HW7_3" height = "200" />
 
 
 
 本地视频播放
 
-<img src="image/hw7/HW7_2.png" alt="HW7_2" style="zoom:5%;" />
+<img src="image/hw7/HW7_2.png" alt="HW7_2" height = "200" />
 
-<img src="image/hw7/HW7_4.png" alt="HW7_4" style="zoom:5%;" />
+<img src="image/hw7/HW7_4.png" alt="HW7_4" height = "200" />
 
 
 
@@ -73,8 +73,8 @@
 
 录制视频：
 
-<img src="/image/hw8/HW8_2.png" alt="HW8_2" style="zoom:5%;" />
+<img src="/image/hw8/HW8_2.png" alt="HW8_2" height = "200"/>
 
 录制结果：
 
-<img src="H:\Git\little-term\image\hw8\HW8_3.png" alt="HW8_3" style="zoom:5%;" />
+<img src="H:\Git\little-term\image\hw8\HW8_3.png" alt="HW8_3" height = "200" />
